@@ -1,1 +1,1 @@
-My first dirctory readme
+It’s time to code!
